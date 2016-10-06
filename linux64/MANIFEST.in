@@ -1,0 +1,4 @@
+include *.h
+include *.py
+include *.txt
+include sample.dmx
